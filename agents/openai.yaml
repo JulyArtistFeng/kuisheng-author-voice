@@ -1,0 +1,4 @@
+interface:
+  display_name: "《窥生》个人文风 v2.0·结构与人物整改"
+  short_description: "以本人《窥生》新旧稿为依据，保留讲述、诙谐和设定演示的小说创作与修订"
+  default_prompt: "请使用 $kuisheng-author-voice，按我的《窥生》新旧稿文风完成这次小说创作或修订。全书整改先检查主线、冲突方式、人物声音与关系，再润句，并保持时间与道具连续。"
